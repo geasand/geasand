@@ -1,5 +1,5 @@
 
-<img src="images/geacodes-logo.png" width="120px" style="float:right" />
+<img src="images/geacodes-logo.png" width="120px" align="right" />
 
 <br/>
 
@@ -9,9 +9,9 @@ I am a Geodetic Engineering student getting into IT world. My current goal is to
 
 ## Techs and Tools
 
-<img align="center" alt="HTML5" width="64px" src="images/html-svgrepo-com.svg"/>
-<img align="center" alt="CSS" width="64px" src="images/css-svgrepo-com.svg" />
-<img align="center" alt="JS" width="64px" src="images/javascript-svgrepo-com.svg" />
+<img align="left" alt="HTML5" width="64px" src="images/html-svgrepo-com.svg"/>
+<img align="left" alt="CSS" width="64px" src="images/css-svgrepo-com.svg" />
+<img align="left" alt="JS" width="64px" src="images/javascript-svgrepo-com.svg" />
 
 <br />
 
@@ -19,7 +19,7 @@ I am a Geodetic Engineering student getting into IT world. My current goal is to
 
 [<img align="left" alt="geasand | Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/geasand)
     
-[<img align="left" alt="geasand | Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" margin="20px" />](https://www.linkedin.com/in/geasand/)
+[<img align="left" alt="geasand | Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" margin="10px" />](https://www.linkedin.com/in/geasand/)
 
 
 
