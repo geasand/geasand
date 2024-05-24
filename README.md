@@ -4,7 +4,7 @@
 <br/>
 
 # Hello there, I'm Sandra
-I am a Geodetic Engineering student getting into IT world. My current goal is to become a Frontend Web Developer.
+I am a Geodetic Engineering student getting into the IT world. My current goal is to become a Frontend Web Developer.
 
 
 ## Techs and Tools
