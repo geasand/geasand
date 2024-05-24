@@ -14,6 +14,8 @@ I am a Geodetic Engineering student getting into IT world. My current goal is to
 <img align="left" alt="JS" width="64px" src="images/javascript-svgrepo-com.svg" />
 
 <br />
+<br />
+<br />
 
 ## Contact
 
