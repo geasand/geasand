@@ -1,5 +1,5 @@
 
-<img src="images/bannergithub.png" width="500px" align="top" />
+<img src="images/bannergithub.png" width="800px" align="top" />
 <img src="images/geacodes-logo.png" width="120px" align="right" />
 
 <br/>
