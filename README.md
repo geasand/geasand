@@ -1,17 +1,31 @@
 
+<img src="images/bannergithub.png" width="500px" align="top" />
 <img src="images/geacodes-logo.png" width="120px" align="right" />
 
 <br/>
 
-# Hello there, I'm Sandra
-I am a Geodetic Engineering student getting into the IT world. My current goal is to become a Frontend Web Developer.
+# Hello, I'm Sandra!
+#### I am a Geodetic Engineering student getting into the IT world. My current goal is to become a Frontend Web Developer.
 
 
-## Techs and Tools
+## Languages
 
 <img align="left" alt="HTML5" width="64px" src="images/html-svgrepo-com.svg"/>
 <img align="left" alt="CSS" width="64px" src="images/css-svgrepo-com.svg" />
 <img align="left" alt="JS" width="64px" src="images/javascript-svgrepo-com.svg" />
+[<img align="left" alt="VB6" width="64px" src="images/icons8-microsoft-visual-basic-6-100.png" />](https://icons8.com)
+
+<br />
+<br />
+<br />
+
+## Techs and Tools
+<img align="left" alt="Git" width="64px" src="images/git-svgrepo-com.svg"/>
+<img align="left" alt="BEM" width="64px" src="images/bem-svgrepo-com.svg"/>
+<img align="left" alt="Figma" width="64px" src="images/figma-svgrepo-com.svg"/>
+<img align="left" alt="Notion" width="64px" src="images/notion-svgrepo-com.svg"/>
+<img align="left" alt="Slack" width="64px" src="images/slack-svgrepo-com.svg"/>
+
 
 <br />
 <br />
@@ -19,9 +33,9 @@ I am a Geodetic Engineering student getting into the IT world. My current goal i
 
 ## Contact
 
-[<img align="left" alt="geasand | Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/geasand)
+[<img align="left" alt="geasand | Telegram" width="32px" src="images/telegram-svgrepo-com (1).svg" />](https://t.me/geasand)
     
-[<img align="left" alt="geasand | Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" margin="10px" />](https://www.linkedin.com/in/geasand/)
+[<img align="left" alt="geasand | Linkedin" width="26px" src="images/linkedin-svgrepo-com.svg" margin="10px" />](https://www.linkedin.com/in/geasand/)
 
 
 
