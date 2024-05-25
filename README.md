@@ -5,10 +5,10 @@
 <br/>
 
 # Hello, I'm Sandra!
-#### I am a Geodetic Engineering student getting into the IT world. My current goal is to become a Frontend Web Developer.
+ I am a Geodetic Engineering student and a language enthusiast getting into the IT world. My current goal is to become a Frontend Web Developer.
 
 
-## Languages
+## Programming Languages
 
 <img align="left" alt="HTML5" width="64px" src="images/html-svgrepo-com.svg"/>
 <img align="left" alt="CSS" width="64px" src="images/css-svgrepo-com.svg" />
@@ -30,6 +30,16 @@
 <br />
 <br />
 <br />
+
+## Languages
+
+🇻🇪 Spanish - Native
+<br />
+🇺🇸 English - B2
+<br />
+🇷🇺 Russian - A2
+<br />
+🇯🇵 Japanese - N5
 
 ## Contact
 
