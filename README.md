@@ -13,7 +13,7 @@
 <img align="left" alt="HTML5" width="64px" src="images/html-svgrepo-com.svg"/>
 <img align="left" alt="CSS" width="64px" src="images/css-svgrepo-com.svg" />
 <img align="left" alt="JS" width="64px" src="images/javascript-svgrepo-com.svg" />
-[<img align="left" alt="VB6" width="64px" src="images/icons8-microsoft-visual-basic-6-100.png" />](https://icons8.com)
+<img align="left" alt="VB6" width="64px" src="images/icons8-microsoft-visual-basic-6-100.png" />
 
 <br />
 <br />
