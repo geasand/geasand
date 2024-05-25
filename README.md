@@ -1,6 +1,6 @@
 
-<img src="images/bannergithub.png" width="900px" align="top" />
-<img src="images/geacodes-logo.png" width="120px" align="right" />
+<img src="images/github-banner.png" width="900px" align="top" />
+<!--<img src="images/geacodes-logo.png" width="120px" align="right" /> -->
 
 <br/>
 
