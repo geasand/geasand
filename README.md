@@ -14,6 +14,8 @@
 <img align="left" alt="CSS" width="64px" src="images/css-svgrepo-com.svg" />
 <img align="left" alt="JS" width="64px" src="images/javascript-svgrepo-com.svg" />
 <img align="left" alt="VB6" width="64px" src="images/icons8-microsoft-visual-basic-6-100.png" />
+<img align="left" alt="VB6" width="64px" src="images/python-svgrepo-com.svg" />
+
 
 <br />
 <br />
@@ -26,6 +28,15 @@
 <img align="left" alt="Notion" width="64px" src="images/notion-svgrepo-com.svg"/>
 <img align="left" alt="Slack" width="64px" src="images/slack-svgrepo-com.svg"/>
 
+
+<br />
+<br />
+<br />
+
+## Other Tools
+<img align="left" alt="Autodesk" width="64px" src="images/autodesk-svgrepo-com.svg"/>
+<img align="left" alt="QGIS" width="64px" src="images/qgis-svgrepo-com.svg"/>
+<img align="left" alt="Solidworks" width="64px" src="images/solidworks-svgrepo-com.svg"/>
 
 <br />
 <br />
