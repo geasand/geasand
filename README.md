@@ -11,7 +11,7 @@
 ## Programming Languages
 
 <img title="HTML5" alt="HTML5" align="left" width="48px" src="images/html-svgrepo-com.svg"/>
-<img title="CSS" alt="CSS" align="left" width="48px" src="images/css-svgrepo-com.svg" />
+<img title="CSS3" alt="CSS" align="left" width="48px" src="images/css-svgrepo-com.svg" />
 <img title="Javascript" alt="Javascript" align="left" width="48px" src="images/javascript-svgrepo-com.svg" />
 <img title="VB6" alt="VB6" align="left" width="48px" src="images/icons8-microsoft-visual-basic-6-100.png" />
 <img title="Python" alt="Python" align="left" width="48px" src="images/python-svgrepo-com.svg" />
