@@ -10,11 +10,11 @@
 
 ## Programming Languages
 
-<img title="HTML5" alt="HTML5" align="left" width="64px" src="images/html-svgrepo-com.svg"/>
-<img title="CSS" alt="CSS" align="left" width="64px" src="images/css-svgrepo-com.svg" />
-<img title="Javascript" alt="Javascript" align="left" width="64px" src="images/javascript-svgrepo-com.svg" />
-<img title="VB6" alt="VB6" align="left" width="64px" src="images/icons8-microsoft-visual-basic-6-100.png" />
-<img title="HTML5" alt="Python" align="left" width="64px" src="images/python-svgrepo-com.svg" />
+<img title="HTML5" alt="HTML5" align="left" width="48px" src="images/html-svgrepo-com.svg"/>
+<img title="CSS" alt="CSS" align="left" width="48px" src="images/css-svgrepo-com.svg" />
+<img title="Javascript" alt="Javascript" align="left" width="48px" src="images/javascript-svgrepo-com.svg" />
+<img title="VB6" alt="VB6" align="left" width="48px" src="images/icons8-microsoft-visual-basic-6-100.png" />
+<img title="Python" alt="Python" align="left" width="48px" src="images/python-svgrepo-com.svg" />
 
 
 <br />
@@ -22,11 +22,11 @@
 <br />
 
 ## Techs and Tools
-<img title="Git" alt="Git" align="left" width="64px" src="images/git-svgrepo-com.svg"/>
-<img title="BEM" alt="BEM" align="left" width="64px" src="images/bem-svgrepo-com.svg"/>
-<img title="Figma" alt="Figma" align="left" width="64px" src="images/figma-svgrepo-com.svg"/>
-<img title="Notion" alt="Notion" align="left" width="64px" src="images/notion-svgrepo-com.svg"/>
-<img title="Slack" alt="Slack" align="left" width="64px" src="images/slack-svgrepo-com.svg"/>
+<img title="Git" alt="Git" align="left" width="48px" src="images/git-svgrepo-com.svg"/>
+<img title="BEM" alt="BEM" align="left" width="48px" src="images/bem-svgrepo-com.svg"/>
+<img title="Figma" alt="Figma" align="left" width="48px" src="images/figma-svgrepo-com.svg"/>
+<img title="Notion" alt="Notion" align="left" width="48px" src="images/notion-svgrepo-com.svg"/>
+<img title="Slack" alt="Slack" align="left" width="48px" src="images/slack-svgrepo-com.svg"/>
 
 
 <br />
@@ -34,9 +34,9 @@
 <br />
 
 ## Other Tools
-<img title="Autodesk" alt="Autodesk" align="left" width="64px" src="images/autodesk-svgrepo-com.svg"/>
-<img title="QGIS" alt="QGIS" align="left" width="64px" src="images/qgis-svgrepo-com.svg"/>
-<img title="QGIS" alt="Solidworks" align="left" width="64px" src="images/solidworks-svgrepo-com.svg"/>
+<img title="Autodesk" alt="Autodesk" align="left" width="48px" src="images/autodesk-svgrepo-com.svg"/>
+<img title="QGIS" alt="QGIS" align="left" width="48px" src="images/qgis-svgrepo-com.svg"/>
+<img title="Solidworks" alt="Solidworks" align="left" width="48px" src="images/solidworks-svgrepo-com.svg"/>
 
 <br />
 <br />
@@ -56,7 +56,7 @@
 
 [<img title="Telegram" align="left" alt="geasand | Telegram" width="32px" src="images/telegram-svgrepo-com (1).svg" />](https://t.me/geasand)
     
-[<img title="Linkedin" align="left" alt="geasand | Linkedin" width="26px" src="images/linkedin-svgrepo-com.svg" margin="10px" />](https://www.linkedin.com/in/geasand/)
+[<img title="Linkedin" align="left" alt="geasand | Linkedin" width="32px" src="images/linkedin-svgrepo-com.svg" margin="10px" />](https://www.linkedin.com/in/geasand/)
 
 
 
