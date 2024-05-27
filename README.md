@@ -54,9 +54,9 @@
 
 ## 📩 Contact
 
-[<img title="Telegram" align="left" alt="geasand | Telegram" width="32px" src="images/telegram-svgrepo-com (1).svg" />](https://t.me/geasand)
+[<img title="Telegram" align="left" alt="geasand | Telegram" width="32px" src="images/telegram-svgrepo-com (1).svg" target=”_blank” />](https://t.me/geasand)
     
-[<img title="Linkedin" align="left" alt="geasand | Linkedin" width="32px" src="images/linkedin-svgrepo-com.svg" margin="10px" />](https://www.linkedin.com/in/geasand/)
+[<img title="Linkedin" align="left" alt="geasand | Linkedin" width="32px" src="images/linkedin-svgrepo-com.svg" margin="10px" target=”_blank” />](https://www.linkedin.com/in/geasand/)
 
 
 
